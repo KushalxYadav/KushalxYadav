@@ -9,7 +9,7 @@ Professional starter of projects<br><br>
 <code>visitor@github:~$ status</code><br>
 Productively procrastinating<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=Works+on+my+machine;47+tabs+open;git+commit+-m+%22final+v2+REAL%22" alt="typing text">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=Thinks+a+lot.+Pushes+less;47+tabs+open;git+commit+-m+%22final+v2+REAL%22" alt="typing text">
 
 <br>
 
