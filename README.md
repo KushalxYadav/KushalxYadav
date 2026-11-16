@@ -1,20 +1,15 @@
-<img src="./banner.svg" alt="Kushal banner" width="100%">
+<a href="https://kushalyadav.me">
+  <img src="./banner.svg" width="100%" alt="Kushal Yadav — professional starter of projects. Building things nobody asked for.">
+</a>
 
-<div align="center">
+<p align="center">
+  <a href="https://kushalyadav.me"><img src="./assets/link-portfolio.svg" height="34" alt="Portfolio"></a>
+  <a href="mailto:kushalyadavx0l@gmail.com"><img src="./assets/link-email.svg" height="34" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kushal-yadav-87757a41b"><img src="./assets/link-linkedin.svg" height="34" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/kesuuydv/"><img src="./assets/link-instagram.svg" height="34" alt="Instagram"></a>
+  <a href="https://x.com/Kushal_ydvv"><img src="./assets/link-x.svg" height="34" alt="X"></a>
+</p>
 
-<code>visitor@github:~$ whoami</code><br>
-<b>Kushal</b><br>
-Professional starter of projects<br><br>
-
-<code>visitor@github:~$ status</code><br>
-Productively procrastinating<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=Thinks+a+lot.+Pushes+less;I+turn+bugs+into+features;git+commit+-m+%22final+v2+REAL%22" alt="typing text">
-
-<br>
-
-<a href="https://www.instagram.com/kesuuydv/"><img src="https://img.shields.io/badge/INSTAGRAM-111?style=flat-square&logo=instagram&logoColor=00FFFF" alt="Instagram"></a>
-<a href="mailto:kushalyadavx0l@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111?style=flat-square&logo=gmail&logoColor=00FFFF" alt="Email"></a>
-<a href="https://kushalyadav.me"><img src="https://img.shields.io/badge/PORTFOLIO-111?style=flat-square&logo=vercel&logoColor=00FFFF" alt="Portfolio"></a>
-
-</div>
+<p align="center">
+  <sub>The banner is a Schwarzschild black hole, ray-traced from scratch in Python. No stock art, no image generator — <a href="https://github.com/KushalxYadav/KushalxYadav/tree/main/scripts">see how</a>.</sub>
+</p>

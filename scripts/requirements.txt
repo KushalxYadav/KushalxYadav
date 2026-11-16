@@ -1,0 +1,7 @@
+numpy
+scipy
+numba
+pillow
+scikit-image
+fonttools
+uharfbuzz
